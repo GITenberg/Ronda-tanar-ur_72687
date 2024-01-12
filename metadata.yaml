@@ -1,0 +1,45 @@
+_repo: Ronda-tanar-ur_72687
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kostolani, Dezhe
+    - Kosztolányi, Désiré
+    - Kosztolanyi, Dezso
+    - Kosztolanyi, Desire
+    - Kosztolányi, Dezso
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+creator:
+  author:
+    agent_name: Mann, Heinrich
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '35073'
+    url: http://www.gutenberg.org/2009/agents/35073
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Heinrich_Mann
+    - http://de.wikipedia.org/wiki/Heinrich_Mann
+description: ''
+gutenberg_issued: '2024-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72687'
+language: hu
+pgterms:marc905: 20240108064454mann
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBékéscsaba :$bTevan, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ronda tanár ur
+url: http://www.gutenberg.org/ebooks/72687
