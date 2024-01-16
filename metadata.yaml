@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '40807'
     url: http://www.gutenberg.org/2009/agents/40807
     wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+covers:
+- cover_type: archival
+  image_path: 72687-h/images/cover.jpg
 creator:
   author:
     agent_name: Mann, Heinrich
@@ -25,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Heinrich_Mann
     - http://de.wikipedia.org/wiki/Heinrich_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72687#Ronda-tanar-ur
 gutenberg_issued: '2024-01-11'
 gutenberg_type: Text
 identifiers:
